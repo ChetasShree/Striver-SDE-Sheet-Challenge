@@ -6,5 +6,5 @@ Gonna' be Fun ❤️
 
 | Day  | Problem Solved💯 |
 | ------------- | ------------- |
-<!-- | Day 1 | Content Cell  |
-| Day 2 | Content Cell  | -->
+| Day 1 | Linked List 1  |
+<!-- | Day 2 | Content Cell  | -->
