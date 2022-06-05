@@ -4,7 +4,7 @@
 
 Gonna' be Fun ❤️
 
-| Days  | Problem Solved💯 |
+| Day  | Problem Solved💯 |
 | ------------- | ------------- |
 <!-- | Day 1 | Content Cell  |
 | Day 2 | Content Cell  | -->
